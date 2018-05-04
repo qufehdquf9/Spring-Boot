@@ -9,7 +9,7 @@ Thymeleaf: java 라이브러리로 xml, xhtml, html5 문서를 생성하는 템�
 1. Spring Starter Project 생성
 
 * 프로잭트 생성
-![프로젝트](./image/1.png)
+![프로젝트](/image/1.png)
 
 
 
