@@ -8,17 +8,17 @@
 Thymeleaf: java 라이브러리로 xml, xhtml, html5 문서를 생성하는 템플릿 엔진(광파는 애)
 1. Spring Starter Project 생성
 * 프로잭트 생성
-![프로젝트](/image/1.png){: width="150" height="150"}
+![프로젝트](/image/1.png){: width="150px" height="150px"}
 
 * 라이브러리 추가
 
-![라이브러리](/image/2.png){: width="150" height="150"}
+![라이브러리](/image/2.png){: width="150px" height="150px"}
 
 * 컨트롤러 생성 및 작성
 
-![컨트롤러](/image/3.png){: width="150" height="150"}
+![컨트롤러](/image/3.png){: width="150px" height="150px"}
 
-* 코드 작성
+* controller 코드 작성
 ~~~
 package com.youngjin.controller;
 
@@ -40,7 +40,7 @@ public class SampleController {
 
 * templates 내에 sample1.html 생성
 
-![html](/image/4.png){: width="150" height="150"}
+![html](/image/4.png){: width="150px" height="150px"}
 
 * sample1.html 작성
 ~~~
@@ -61,7 +61,7 @@ public class SampleController {
 boot5 -> Run as ->localhost:8080/sample1
 ~~~
 
-![html](/image/5.png){: width="150" height="150"}
+![html](/image/5.png){: width="150px" height="150px"}
 
 
 
